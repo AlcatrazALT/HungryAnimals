@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6314216026936408900}
   - component: {fileID: 6314216026935344214}
   - component: {fileID: 6314216026127954337}
+  - component: {fileID: 114449019060367982}
   m_Layer: 0
   m_Name: Apple
   m_TagString: Untagged
@@ -91,3 +92,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 40
+--- !u!114 &114449019060367982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6314216026937332878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 280889d83b1e19c498320d42601f6cce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
